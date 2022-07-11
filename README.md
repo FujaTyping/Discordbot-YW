@@ -1,7 +1,6 @@
 # Discordbot-YW
-Discord bot ใช้ในดิส เด็ก ญ.ว. - Hatyaiwittayalai School
-Discord Invite : [Discord Server](https://discord.gg/fgTFEkJxvE)
-<iframe src="https://discord.com/widget?id=905315034085867590&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+- Discord bot ใช้ในดิส เด็ก ญ.ว. - Hatyaiwittayalai School
+- Discord Invite : [Discord Server](https://discord.gg/fgTFEkJxvE)
 
 ### วิธีการดาวโหลด
 1. ใช้คำสั่งจาก CMD หรือ Terminal : **git clone https://github.com/FujaTyping/Discordbot-YW.git** (**ต้องลง git ก่อนนะเดี๋ยวใช้ไม่ได้**)
